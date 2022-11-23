@@ -1,3 +1,6 @@
+02 media tickets is a music concert dapp tickets for booking shows and selling concert ticket on Web3 market place inspired by the CELO contract. The plans is to sell their event tickets in a decentralized manner, and also provide ticket holders a way to make money by allowing them to re-list or resell their tickets for a higher price.
+
+#demo link [https://fantastic-pavlova-d495cb.netlify.app/]
 # Install
 
 ```
